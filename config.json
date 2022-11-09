@@ -1,5 +1,5 @@
 {
-    "name": "Marcelo Farias (DevSoutinho)",
+    "name": "Marcelo Farias",
     "description": "Lead Software Engineer",
     "github": "marcelofarias-jr",
     "playlists": {
@@ -130,5 +130,12 @@
           "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
         }
       ]
+    },
+    "favorites": [
+      {
+      "name": "Attekita Dev",
+      "thumb": "https://yt3.ggpht.com/ytc/AMLnZu9h7Oi6GsvuU6F208UHTI6hrMa9edPOdLlCFcuKK14=s88-c-k-c0x00ffffff-no-rj",
+      "url": "https://www.youtube.com/c/AttekitaDev"
     }
+  ]
   }
